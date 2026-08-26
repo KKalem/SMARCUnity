@@ -1965,7 +1965,7 @@ PrefabInstance:
     - target: {fileID: 312282843518149803, guid: 9bdc1d495a4826a008b8bd941c031fdf,
         type: 3}
       propertyPath: m_Name
-      value: Evolo
+      value: evolo
       objectReference: {fileID: 0}
     - target: {fileID: 7666915359876497695, guid: 9bdc1d495a4826a008b8bd941c031fdf,
         type: 3}
